@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.paper {
+  margin-top: 20px;
+}
+
+.icon-mr {
+  margin-right: 5px;
+}
+
+.icon-ml {
+  margin-left: 15px;
+}
+
+.chat-area {
+  overflow-y: auto;
+  height: 400px;
+  padding: 10px;
+}
+
+.done-icon {
+  margin-left: 2px;
+  padding: 2px;
+  margin-bottom: 2px;
+  color: #00ff00;
+}
